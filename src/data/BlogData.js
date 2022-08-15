@@ -3,7 +3,7 @@
 export const Blogs = [
   {
     id: 1,
-    name: "Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
+    name: "Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations this is s nice car👌",
     tags: ["react", "gsap", "styled-components"],
     date: "13 May, 2021",
     imgSrc:
@@ -30,7 +30,7 @@ export const Blogs = [
   },
   {
     id: 4,
-    name: "How to build a Fabulous Todo App using React, Redux and Framer-Motion hyyykali",
+    name: "How to build a Fabulous Todo App using React, Redux and Framer-Motion the code",
     tags: ["react", "redux", "framer-motion"],
     date: "26 May, 2021",
     imgSrc:
