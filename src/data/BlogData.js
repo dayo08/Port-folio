@@ -21,7 +21,7 @@ export const Blogs = [
   },
   {
     id: 3,
-    name: "React Loading Screen: Try these 3 cool loading screens for your app",
+    name: "React Loading Screen: Try these 3 cool loading screens for your app dwonload",
     tags: ["react", "react-lottie", "styled-components"],
     date: "6 July, 2021",
     imgSrc:
