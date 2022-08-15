@@ -45,7 +45,7 @@ export const Work = [
     id: 5,
     name: "Todo App(React + Redux)",
     description:
-      "A todo app build using Redux-toolkit and framer-motion for smooth animations  this is a awesome.",
+      "A todo app build using Redux-toolkit and framer-motion for smooth animations.",
     tags: ["react", "redux", "framer-motion"],
 
     demo: "http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
