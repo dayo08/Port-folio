@@ -30,7 +30,7 @@ export const Blogs = [
   },
   {
     id: 4,
-    name: "How to build a Fabulous Todo App using React, Redux and Framer-Motion the code",
+    name: "How to build a Fabulous Todo App using React, Redux and Framer-Motion the code i am Blockchain devloper ",
     tags: ["react", "redux", "framer-motion"],
     date: "26 May, 2021",
     imgSrc:
