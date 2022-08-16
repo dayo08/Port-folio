@@ -3,7 +3,7 @@
 export const Blogs = [
   {
     id: 1,
-    name: "Build Website with ReactJS,yelloe color good Styled-components and GSAP for Scrolling Animations this is s nice car👌",
+    name: "Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations this is s nice car👌",
     tags: ["react", "gsap", "styled-components"],
     date: "13 May, 2021",
     imgSrc:
@@ -12,7 +12,7 @@ export const Blogs = [
   },
   {
     id: 2,
-    name: "How to create React Hamburger Menu using Styled-Components green color good.",
+    name: "How to create React Hamburger Menu using Styled-Components",
     tags: ["react", "styled-components"],
     date: "5 July, 2021",
     imgSrc:
@@ -21,7 +21,7 @@ export const Blogs = [
   },
   {
     id: 3,
-    name: "React Loading Screen: Try these 3 cool loading screens for your app dwonload nice boys",
+    name: "React Loading Screen: Try these 3 cool loading screens for your app dwonload",
     tags: ["react", "react-lottie", "styled-components"],
     date: "6 July, 2021",
     imgSrc:
